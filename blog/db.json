@@ -1,0 +1,36 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "title": "Introduction to Vue.js",
+        "body": "Vue.js is a progressive JavaScript framework...",
+        "tags": [
+          "Vue.js",
+          "JavaScript",
+          "Frontend"
+        ],
+        "author": "John Doe"
+      },
+      {
+        "id": "2",
+        "title": "Getting Started with Vue Router",
+        "body": "Vue Router is the official router for Vue.js...",
+        "tags": [
+          "Vue.js",
+          "Vue Router",
+          "SPA"
+        ],
+        "author": "Jane Smith"
+      },
+      {
+        "id": "fb46",
+        "title": "who is the best",
+        "author": "Nour",
+        "body": "Nour is the best",
+        "tags": [
+          "self-love",
+          "vue"
+        ]
+      }
+    ]
+  }
